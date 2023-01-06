@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543302365361",
+    "project_id": "tpamov-bf4d1",
+    "storage_bucket": "tpamov-bf4d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543302365361:android:052719a1f37fc6de4ff290",
+        "android_client_info": {
+          "package_name": "com.example.tpamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543302365361-jmua0vf4vmsvl3gv2n7piprom1np0o93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIV1rIBAtqPUX0ALBr8kz82nS6ZfJn5ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543302365361-jmua0vf4vmsvl3gv2n7piprom1np0o93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

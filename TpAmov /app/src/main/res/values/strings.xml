@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TpAmov</string>
+    <string name="official_app_name">QUICK MATH</string>
+    <string name="single_player">Um Jogador</string>
+    <string name="multi_player">Vários Jogadores</string>
+    <string name="time">Tempo</string>
+    <string name="time_played">Tempo Jogado</string>
+    <string name="times_up">Tempo\nAcabou</string>
+    <string name="break_time">Pausa\n\n\n</string>
+    <string name="points">Pontos</string>
+    <string name="ok">Sair</string>
+    <string name="cancel">Ficar</string>
+    <string name="leave">Sair do Jogo</string>
+    <string name="stay">Continuar a Jogar</string>
+    <string name="sure_to_leave">De certeza que deseja sair do jogo?</string>
+
+    <string name="error_address">Endereço não reconhecido</string>
+    <string name="button_connect">Ligar</string>
+    <string name="ask_ip">IP do servidor:</string>
+    <string name="client_mode">Modo Cliente</string>
+    <string name="server_mode">Modo Servidor</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="msg_ip_address">IP do servidor: %s\nÀ espera de um cliente…</string>
+    <string name="btn_emulator">Ligar a um emulador</string>
+
+    <string name="upload">Carregar uma Fotografia</string>
+    <string name="best_scores">Top 5 Melhores Resultados\n\n</string>
+    <string name="best_times">Top 5 Melhores Tempos\n\n</string>
+    <string name="play">Jogar</string>
+    <string name="play_alone">Jogar Sozinho</string>
+    <string name="play_friends">Jogar Com Amigos</string>
+    <string name="pause">Pausa</string>
+    <string name="resume">Resumir</string>
+    <string name="correctLvlup">Correto!\nSubiu de Nível</string>
+    <string name="correct">\nResposta Correta</string>
+    <string name="second_correct">\nSegunda Resposta Correta</string>
+    <string name="incorrect">\nResposta Errada</string>
+    <string name="invalid">\nResposta Inválida</string>
+
+    <string name="playResult">Resultado Última\nJogada:</string>
+    <string name="winningResult">Resultado\nCorreto</string>
+    <string name="secondWinningResult">Segundo Resultado\nCorreto</string>
+    <string name="secondWinningResultLand">Segundo Resultado\nCorreto</string>
+    <string name="playResultLand">Resultado Última\nJogada</string>
+    <string name="winningResultLand">Resultado Correto</string>
+
+    <string name="credits">Créditos</string>
+    <string name="college">Instituto Superior de Engenharia de Coimbra</string>
+    <string name="student">Trabalho Realizado Por: António Reis</string>
+    <string name="student_number">Número de Aluno: 2018020490</string>
+    <string name="ramo">Ramo: Desenvolvimento de Aplicações</string>
+    <string name="subject">Disciplina: Arquiteturas Móveis</string>
+    <string name="school_year">Ano Letivo: 2022/2023</string>
+    <string name="back">Voltar</string>
+
+
+
+
+</resources>

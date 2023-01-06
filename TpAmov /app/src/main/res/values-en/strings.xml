@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">TpAmov</string>
+        <string name="official_app_name">QUICK MATH</string>
+        <string name="single_player">Single Player</string>
+        <string name="multi_player">Multi Player</string>
+        <string name="time">Time:</string>
+        <string name="time_played">Time Played</string>
+        <string name="times_up">Time\'s Over</string>
+        <string name="break_time">Break Time:</string>
+        <string name="points">Score</string>
+        <string name="ok">Leave</string>
+        <string name="cancel">Stay</string>
+
+        <string name="leave">Leave Game</string>
+        <string name="stay">Keep Playing</string>
+        <string name="sure_to_leave">Are you sure you wish to leave the game?</string>
+
+        <string name="error_address">Address not recognized</string>
+        <string name="button_connect">Connect</string>
+        <string name="ask_ip">Server Ip:</string>
+        <string name="client_mode">Client Mode</string>
+        <string name="server_mode">Server Mode</string>
+        <string name="button_cancel">Cancel</string>
+        <string name="msg_ip_address">Server Ip: %s\nWaitting for Clients…</string>
+        <string name="btn_emulator">Connect to Emulator</string>
+
+        <string name="upload">Upload Picture</string>
+        <string name="best_scores">Top 5 Scores\n\n</string>
+        <string name="best_times">Top 5 Times\n\n</string>
+        <string name="play">Play</string>
+        <string name="play_alone">Play Alone</string>
+        <string name="play_friends">Play with Friends</string>
+        <string name="pause">Pause</string>
+        <string name="resume">Resume</string>
+        <string name="correctLvlup">Correct!\nLevel Up!</string>
+        <string name="correct">Correct Answer</string>
+        <string name="second_correct">\Second Correct Answer</string>
+        <string name="incorrect">Incorrect Answer</string>
+        <string name="invalid">Invalid Answer</string>
+
+        <string name="playResult">Last Play Result:</string>
+        <string name="winningResult">Correct\nResult:</string>
+        <string name="secondWinningResult">Second Correct\nResult</string>
+
+        <string name="playResultLand">Last Play Result:</string>
+        <string name="winningResultLand">Correct Result</string>
+        <string name="secondWinningResultLand">Second Correct Result</string>
+
+        <string name="credits">Credits</string>
+         <string name="college">Instituto Superior de Engenharia de Coimbra</string>
+         <string name="student">Project Developed By: António Reis</string>
+         <string name="student_number">Student Number: 2018020490</string>
+         <string name="ramo">Course: Software Development</string>
+         <string name="subject">Subject: Arquiteturas Móveis</string>
+         <string name="school_year">Year: 2022/2023</string>
+      <string name="back">Return</string>
+
+
+</resources>
